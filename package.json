@@ -1,17 +1,21 @@
 {
-  "name": "ai-tools-mcp",
+  "name": "@caseybuilds/ai-tools-mcp",
   "version": "1.0.0",
   "description": "MCP server for searching AI tool cards curated from The AI Search YouTube channel",
   "type": "module",
   "bin": {
-    "ai-tools-mcp": "./dist/index.js"
+    "ai-tools-mcp": "dist/index.js"
   },
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js",
     "dev": "tsx src/index.ts"
   },
-  "keywords": ["mcp", "ai-tools", "model-context-protocol"],
+  "keywords": [
+    "mcp",
+    "ai-tools",
+    "model-context-protocol"
+  ],
   "license": "MIT",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.12.1"
