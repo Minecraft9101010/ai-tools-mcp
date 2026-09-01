@@ -17,3 +17,4 @@ Solo founders or agencies that need end-to-end content production and want AI in
 
 ## Sources
 - [AI co-scientist, AI for DNA, AI NPCs, open-source robots, new Qwen, new video editors: AI NEWS](https://www.youtube.com/watch?v=pC6KHflGye0) (2026-05-24) - mention (sponsored)
+- [The BEST AI for 4K images. Free & fast](https://www.youtube.com/watch?v=DlvhlQOBHBw) (2026-06-02) - mention (sponsored)

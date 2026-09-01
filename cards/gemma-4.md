@@ -17,3 +17,4 @@ When you need a capable open model for local or on-device deployment, especially
 
 ## Sources
 - [Google's open-source AI, Claude Code leaked, new Wan, new Qwen, image gen on phone: AI NEWS](https://www.youtube.com/watch?v=o5rGuknRw2A) (2026-04-05) - mention
+- [Full body waifus, AI dreams, realtime AI music, open-source Gemini Omni: AI NEWS](https://www.youtube.com/watch?v=CzxqQJOswvo) (2026-06-07) - mention

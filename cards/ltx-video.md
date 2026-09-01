@@ -18,3 +18,4 @@ Best free local option when you need video with integrated audio and can't pay f
 ## Sources
 - [Best local AI video generator with sound is here!](https://www.youtube.com/watch?v=KaQbt6NYrzY) (2026-03-15) - deep-dive
 - [LTX 2.3, GPT 5.4, CUDA agent, realtime AI videos, new image models, 360 videos: AI NEWS](https://www.youtube.com/watch?v=KRE8JqTAEQk) (2026-03-13) - mention
+- [New Deepseek, GLM 5.3, Grok 4.6, LTX 2.5, Qwen 3.8, Gemini 3.7: AI NEWS](https://www.youtube.com/watch?v=62HSUsS0ypo) (2026-08-16) - mention

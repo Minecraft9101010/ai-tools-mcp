@@ -17,3 +17,4 @@ Music producers who want AI-generated stems they can actually mix and master, ra
 
 ## Sources
 - [Finally, AI for music production! Free & open source](https://www.youtube.com/watch?v=CMuwP0u-Sjg) (2026-03-25) - deep-dive
+- [The BEST local AI music generator is here!](https://www.youtube.com/watch?v=aUcDyeZgz_k) (2026-08-15) - mention

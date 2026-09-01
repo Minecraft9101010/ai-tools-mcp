@@ -18,3 +18,4 @@ Long-context tasks like analyzing large codebases or running multi-hour agentic 
 ## Sources
 - [The insane engineering of Deepseek V4](https://www.youtube.com/watch?v=XJUpuOBpT-4) (2026-05-01) - deep-dive
 - [The most insane week in AI](https://www.youtube.com/watch?v=ZKfd9S9lOtc) (2026-04-26) - mention
+- [New Deepseek, GLM 5.3, Grok 4.6, LTX 2.5, Qwen 3.8, Gemini 3.7: AI NEWS](https://www.youtube.com/watch?v=62HSUsS0ypo) (2026-08-16) - mention

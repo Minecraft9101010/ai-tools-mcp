@@ -1,0 +1,417 @@
+{
+  "videos": [
+    {
+      "id": "pC6KHflGye0",
+      "title": "AI co-scientist, AI for DNA, AI NPCs, open-source robots, new Qwen, new video editors: AI NEWS",
+      "published": "2026-05-24",
+      "processed": "2026-05-24",
+      "tools_extracted": 18
+    },
+    {
+      "id": "J02-39xtlt4",
+      "title": "Google just dropped some huge AI updates",
+      "published": "2026-05-21",
+      "processed": "2026-05-24",
+      "tools_extracted": 11
+    },
+    {
+      "id": "NnsQj2nDkKA",
+      "title": "Real gundams, top 3D generator, open-source world models, ChatGPT updates, new TTS: AI NEWS",
+      "published": "2026-05-17",
+      "processed": "2026-05-24",
+      "tools_extracted": 22
+    },
+    {
+      "id": "s3rNDndvav0",
+      "title": "The biggest AI breakthrough in medicine & drug discovery",
+      "published": "2026-05-14",
+      "processed": "2026-06-01",
+      "tools_extracted": 2
+    },
+    {
+      "id": "quxnhOeRz7I",
+      "title": "Self-evolving AI, robot fights, new GPT voice, new local image model, Gemma upgrade: AI NEWS",
+      "published": "2026-05-10",
+      "processed": "2026-06-01",
+      "tools_extracted": 16
+    },
+    {
+      "id": "7r_WJ9xpne0",
+      "title": "Robot girlfriends, recursive AI agents, full AI research, Happy Horse: AI NEWS",
+      "published": "2026-05-03",
+      "processed": "2026-06-01",
+      "tools_extracted": 14
+    },
+    {
+      "id": "XJUpuOBpT-4",
+      "title": "The insane engineering of Deepseek V4",
+      "published": "2026-05-01",
+      "processed": "2026-06-01",
+      "tools_extracted": 2
+    },
+    {
+      "id": "ZKfd9S9lOtc",
+      "title": "The most insane week in AI",
+      "published": "2026-04-26",
+      "processed": "2026-06-01",
+      "tools_extracted": 16
+    },
+    {
+      "id": "G-oNwbngkt0",
+      "title": "GPT-5.5 is a total freak",
+      "published": "2026-04-25",
+      "processed": "2026-06-01",
+      "tools_extracted": 2
+    },
+    {
+      "id": "TLFPbMUtErM",
+      "title": "New AI image generator BEATS EVERYTHING",
+      "published": "2026-04-22",
+      "processed": "2026-06-01",
+      "tools_extracted": 2
+    },
+    {
+      "id": "G8fqduzB5lc",
+      "title": "Claude Opus 4.7, Qwen 3.6, Happy Oyster, realtime 3D worlds, new Google TTS: AI NEWS",
+      "published": "2026-04-19",
+      "processed": "2026-06-01",
+      "tools_extracted": 14
+    },
+    {
+      "id": "A_nAU8h9YOY",
+      "title": "New BEST local AI image generator is here!",
+      "published": "2026-04-16",
+      "processed": "2026-06-01",
+      "tools_extracted": 3
+    },
+    {
+      "id": "1_5sSJK2rU0",
+      "title": "Claude Mythos, Deepseek v4, HappyHorse, Meta's new AI, realtime video games: AI NEWS",
+      "published": "2026-04-12",
+      "processed": "2026-06-01",
+      "tools_extracted": 11
+    },
+    {
+      "id": "UAlLD5fS7-c",
+      "title": "The BEST local AI music generator is here! Free & unlimited",
+      "published": "2026-04-10",
+      "processed": "2026-06-01",
+      "tools_extracted": 1
+    },
+    {
+      "id": "j9LoyiUlv9I",
+      "title": "They just found emotions inside AI",
+      "published": "2026-04-08",
+      "processed": "2026-06-01",
+      "tools_extracted": 0
+    },
+    {
+      "id": "o5rGuknRw2A",
+      "title": "Google's open-source AI, Claude Code leaked, new Wan, new Qwen, image gen on phone: AI NEWS",
+      "published": "2026-04-05",
+      "processed": "2026-06-01",
+      "tools_extracted": 6
+    },
+    {
+      "id": "2IfAVV7ewO0",
+      "title": "They solved AI's memory problem!",
+      "published": "2026-04-03",
+      "processed": "2026-06-01",
+      "tools_extracted": 0
+    },
+    {
+      "id": "6Il0CJx9yU8",
+      "title": "Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS",
+      "published": "2026-04-01",
+      "processed": "2026-06-01",
+      "tools_extracted": 9
+    },
+    {
+      "id": "U2hZFMVNSE0",
+      "title": "How does AI actually work? Transformers explained",
+      "published": "2026-03-29",
+      "processed": "2026-06-01",
+      "tools_extracted": 0
+    },
+    {
+      "id": "HCVkBC1Vhcw",
+      "title": "AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS",
+      "published": "2026-03-27",
+      "processed": "2026-06-01",
+      "tools_extracted": 14
+    },
+    {
+      "id": "CMuwP0u-Sjg",
+      "title": "Finally, AI for music production! Free & open source",
+      "published": "2026-03-25",
+      "processed": "2026-06-01",
+      "tools_extracted": 1
+    },
+    {
+      "id": "NAq1O-tEVsE",
+      "title": "AI has cracked the code of life",
+      "published": "2026-03-22",
+      "processed": "2026-06-01",
+      "tools_extracted": 1
+    },
+    {
+      "id": "qWzo3ws0uWU",
+      "title": "AI maps, realtime 3D worlds, multi-shot videos, new TTS, new anime model: AI NEWS",
+      "published": "2026-03-20",
+      "processed": "2026-06-01",
+      "tools_extracted": 10
+    },
+    {
+      "id": "ZqRtR6Z2U6U",
+      "title": "The Matrix is coming",
+      "published": "2026-03-18",
+      "processed": "2026-06-01",
+      "tools_extracted": 0
+    },
+    {
+      "id": "KaQbt6NYrzY",
+      "title": "Best local AI video generator with sound is here!",
+      "published": "2026-03-15",
+      "processed": "2026-06-01",
+      "tools_extracted": 1
+    },
+    {
+      "id": "KRE8JqTAEQk",
+      "title": "LTX 2.3, GPT 5.4, CUDA agent, realtime AI videos, new image models, 360 videos: AI NEWS",
+      "published": "2026-03-13",
+      "processed": "2026-06-01",
+      "tools_extracted": 6
+    },
+    {
+      "id": "YRyjkmmW5Ek",
+      "title": "GPT 5.4 is so cracked",
+      "published": "2026-03-10",
+      "processed": "2026-06-01",
+      "tools_extracted": 3
+    },
+    {
+      "id": "1ONwQzauqkc",
+      "title": "They solved AI hallucinations!",
+      "published": "2026-03-08",
+      "processed": "2026-06-01",
+      "tools_extracted": 1
+    },
+    {
+      "id": "8grIT-xK50M",
+      "title": "Realtime AI waifus, Qwen 3.5, persistent memory, multiplayer gameplay, new image models: AI NEWS",
+      "published": "2026-03-05",
+      "processed": "2026-06-01",
+      "tools_extracted": 13
+    },
+    {
+      "id": "jXxVyW0WCDE",
+      "title": "Nanobanana 2 is here!",
+      "published": "2026-03-03",
+      "processed": "2026-06-01",
+      "tools_extracted": 2
+    },
+    {
+      "id": "QvN6Tu6dHYM",
+      "title": "The acceleration is here!",
+      "published": "2026-05-28",
+      "processed": "2026-09-01",
+      "tools_extracted": 3
+    },
+    {
+      "id": "RdqYvdT74i0",
+      "title": "Self-improving AI, Opus 4.8, Nvidia bangers, game-ready 3D models, juggling robots: AI NEWS",
+      "published": "2026-05-31",
+      "processed": "2026-09-01",
+      "tools_extracted": 20
+    },
+    {
+      "id": "DlvhlQOBHBw",
+      "title": "The BEST AI for 4K images. Free & fast",
+      "published": "2026-06-02",
+      "processed": "2026-09-01",
+      "tools_extracted": 1
+    },
+    {
+      "id": "CzxqQJOswvo",
+      "title": "Full body waifus, AI dreams, realtime AI music, open-source Gemini Omni: AI NEWS",
+      "published": "2026-06-07",
+      "processed": "2026-09-01",
+      "tools_extracted": 18
+    },
+    {
+      "id": "OA4gchz1Zcs",
+      "title": "New BEST local AI image generator is here!",
+      "published": "2026-06-09",
+      "processed": "2026-09-01",
+      "tools_extracted": 1
+    },
+    {
+      "id": "GUEE9OA4keo",
+      "title": "Claude Fable 5 is here!",
+      "published": "2026-06-11",
+      "processed": "2026-09-01",
+      "tools_extracted": 1
+    },
+    {
+      "id": "SxiRANj0xLs",
+      "title": "RIP Claude Fable, open-source AI unleashed, full body avatars, new Google models, new TTS: AI NEWS",
+      "published": "2026-06-14",
+      "processed": "2026-09-01",
+      "tools_extracted": 23
+    },
+    {
+      "id": "6d__WOpZswY",
+      "title": "New #1 open-source AI model is here! GLM 5.2",
+      "published": "2026-06-17",
+      "processed": "2026-09-01",
+      "tools_extracted": 4
+    },
+    {
+      "id": "kkLlzQqa7MY",
+      "title": "New robot waifus, GLM 5.2 craze, AI spas, new world models, new science agents: AI NEWS",
+      "published": "2026-06-21",
+      "processed": "2026-09-01",
+      "tools_extracted": 8
+    },
+    {
+      "id": "7c_ieWfAbrw",
+      "title": "GPT 5.6, Mythos ban lifted, realtime avatars, Seedance 2.5, brain ultrasound: AI NEWS",
+      "published": "2026-06-28",
+      "processed": "2026-09-01",
+      "tools_extracted": 10
+    },
+    {
+      "id": "J0D7qV3nl7w",
+      "title": "Deepseek drops another HUGE breakthrough",
+      "published": "2026-07-03",
+      "processed": "2026-09-01",
+      "tools_extracted": 1
+    },
+    {
+      "id": "qtzzN8w2TvU",
+      "title": "Full body waifus, Claude Fable is back, LongCat 2.0, mind-reading AI, live video editing: AI NEWS",
+      "published": "2026-07-05",
+      "processed": "2026-09-01",
+      "tools_extracted": 20
+    },
+    {
+      "id": "SettwwX2cCI",
+      "title": "GPT 5.6 is a BEAST",
+      "published": "2026-07-10",
+      "processed": "2026-09-01",
+      "tools_extracted": 4
+    },
+    {
+      "id": "Ti1V7OI2Rro",
+      "title": "Girlfriend simulators, GPT 5.6, Grok 4.5, Seedream 5.0, Muse Spark, robot surgery: AI NEWS",
+      "published": "2026-07-12",
+      "processed": "2026-09-01",
+      "tools_extracted": 5
+    },
+    {
+      "id": "bEnE5pbpe_Q",
+      "title": "New #1 open source AI model is here! Kimi K3",
+      "published": "2026-07-17",
+      "processed": "2026-09-01",
+      "tools_extracted": 1
+    },
+    {
+      "id": "uQ2Hqg5MZ-8",
+      "title": "Kimi K3, dancing waifus, robot UFC, song to MIDI, GPT Red, hoverboards: AI NEWS",
+      "published": "2026-07-19",
+      "processed": "2026-09-01",
+      "tools_extracted": 11
+    },
+    {
+      "id": "fMaPaK4gcNE",
+      "title": "Claude Opus 5, GPT 6 hack, Flux 3, new Gemini, quantum breakthrough, new Qwen: AI NEWS",
+      "published": "2026-07-26",
+      "processed": "2026-09-01",
+      "tools_extracted": 11
+    },
+    {
+      "id": "RCsBJz4W4bA",
+      "title": "Claude Opus 5 is a freak",
+      "published": "2026-07-27",
+      "processed": "2026-09-01",
+      "tools_extracted": 2
+    },
+    {
+      "id": "OrcBSpADCGk",
+      "title": "New Deepseek, Seedance 2.5, Minimax H3, Gemini Robotics, AMD models: AI NEWS",
+      "published": "2026-08-02",
+      "processed": "2026-09-01",
+      "tools_extracted": 8
+    },
+    {
+      "id": "Vpvne2istKg",
+      "title": "New BEST AI video generator is here! Seedance 2.5 vs Minimax H3",
+      "published": "2026-08-03",
+      "processed": "2026-09-01",
+      "tools_extracted": 1
+    },
+    {
+      "id": "8HutJ9W5pTg",
+      "title": "The BEST local AI video generator is here! Minimax H3 tutorial",
+      "published": "2026-08-05",
+      "processed": "2026-09-01",
+      "tools_extracted": 2
+    },
+    {
+      "id": "uJgzFn0GT7M",
+      "title": "New 3D editors, open medical AI, AI symphony, Qwen 3.8, Wan Animate 2: AI NEWS",
+      "published": "2026-08-09",
+      "processed": "2026-09-01",
+      "tools_extracted": 13
+    },
+    {
+      "id": "G3YHSvXZP_g",
+      "title": "The BEST local AI video generator just got BETTER!",
+      "published": "2026-08-12",
+      "processed": "2026-09-01",
+      "tools_extracted": 1
+    },
+    {
+      "id": "aUcDyeZgz_k",
+      "title": "The BEST local AI music generator is here!",
+      "published": "2026-08-15",
+      "processed": "2026-09-01",
+      "tools_extracted": 3
+    },
+    {
+      "id": "62HSUsS0ypo",
+      "title": "New Deepseek, GLM 5.3, Grok 4.6, LTX 2.5, Qwen 3.8, Gemini 3.7: AI NEWS",
+      "published": "2026-08-16",
+      "processed": "2026-09-01",
+      "tools_extracted": 18
+    },
+    {
+      "id": "ZSNMw8U5h-c",
+      "title": "New #1 open source AI has reached FRONTIER",
+      "published": "2026-08-17",
+      "processed": "2026-09-01",
+      "tools_extracted": 4
+    },
+    {
+      "id": "ig3PUfSow5Y",
+      "title": "The FASTEST local AI video generator",
+      "published": "2026-08-18",
+      "processed": "2026-09-01",
+      "tools_extracted": 1
+    },
+    {
+      "id": "rQ4yX5qNYdY",
+      "title": "New AI waifus, new Deepseek, realtime worlds, Happy Shrimp, tiny TTS: AI NEWS",
+      "published": "2026-08-23",
+      "processed": "2026-09-01",
+      "tools_extracted": 10
+    },
+    {
+      "id": "4wjHNgMLeyY",
+      "title": "Ox Alpha reveal, realtime Minimax, Qwen Next, Hy4, robot olympics: AI NEWS",
+      "published": "2026-08-30",
+      "processed": "2026-09-01",
+      "tools_extracted": 15
+    }
+  ]
+}

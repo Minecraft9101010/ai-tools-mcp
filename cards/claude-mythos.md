@@ -17,3 +17,4 @@ Not accessible. Relevant context: if you're in life sciences, infrastructure sec
 
 ## Sources
 - [Claude Mythos, Deepseek v4, HappyHorse, Meta's new AI, realtime video games: AI NEWS](https://youtube.com/watch?v=1_5sSJK2rU0) (2026-04-12) - deep-dive
+- [GPT 5.6, Mythos ban lifted, realtime avatars, Seedance 2.5, brain ultrasound: AI NEWS](https://www.youtube.com/watch?v=7c_ieWfAbrw) (2026-06-28) - mention
