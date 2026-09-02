@@ -432,7 +432,7 @@ const info = sticky({
   config: {
     name: 'Workflow Info',
     parameters: {
-      content: 'AI Tools Ingest Pipeline v1\n\nDaily 6AM PST: polls The AI Search YouTube RSS.\nExtracts tool cards via ChatGPT proxy (Groq fallback).\nCommits to github.com/Minecraft9101010/ai-tools-mcp.\n\nError workflow: Automation Error Alert v2 (iYX7bh5KysKTIALp)\nDiscord: #alert thread 1539435871491850290'
+      content: 'AI Tools Ingest Pipeline v2\n\nDaily 6AM PST: polls The AI Search YouTube RSS.\nExtracts tool cards via ChatGPT proxy (Groq fallback).\nUses video descriptions as primary extraction signal.\nCommits to github.com/Minecraft9101010/ai-tools-mcp.\n\nError workflow: Automation Error Alert v2 (iYX7bh5KysKTIALp)\nDiscord: #alert thread 1539435871491850290'
     },
     position: [240, 100],
     width: 450,
@@ -440,7 +440,7 @@ const info = sticky({
   }
 });
 
-export default workflow('ai-tools-ingest', 'AI Tools Ingest Pipeline v1')
+export default workflow('ai-tools-ingest', 'AI Tools Ingest Pipeline v2')
   .add(scheduleTrigger).to(fetchRss)
   .add(manualTrigger).to(fetchRss)
   .add(fetchRss)
