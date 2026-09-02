@@ -1,22 +1,41 @@
 {
   "name": "@caseybuilds/ai-tools-mcp",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "MCP server for searching AI tool cards curated from The AI Search YouTube channel",
   "type": "module",
   "bin": {
     "ai-tools-mcp": "dist/index.js"
   },
+  "files": [
+    "dist",
+    "cards",
+    "README.md",
+    "LICENSE"
+  ],
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js",
-    "dev": "tsx src/index.ts"
+    "dev": "tsx src/index.ts",
+    "prepublishOnly": "npm run build"
   },
   "keywords": [
     "mcp",
     "ai-tools",
-    "model-context-protocol"
+    "model-context-protocol",
+    "ai",
+    "tools",
+    "search"
   ],
+  "author": "Casey Pelay",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minecraft9101010/ai-tools-mcp.git"
+  },
+  "homepage": "https://github.com/Minecraft9101010/ai-tools-mcp#readme",
+  "bugs": {
+    "url": "https://github.com/Minecraft9101010/ai-tools-mcp/issues"
+  },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.12.1"
   },

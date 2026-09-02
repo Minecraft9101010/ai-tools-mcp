@@ -2,7 +2,6 @@
 
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";
-import { z } from "zod";
 import { readdir, readFile } from "fs/promises";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
@@ -76,7 +75,7 @@ const server = new McpServer({
 server.tool(
   "search_tools",
   "Returns all AI tool cards from the database. Each card includes the tool name, description, pricing, platform, what it does, and when to use it. Sourced from The AI Search YouTube channel. Tip: call this from a sub-agent to keep the main thread's context clean.",
-  { query: z.string().optional().describe("Optional search context (currently unused, all cards are returned for the LLM to filter)") },
+  {},
   async () => {
     const cards = await getCards();
     return {

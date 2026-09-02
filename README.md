@@ -1,6 +1,6 @@
 # AI Tools MCP
 
-An MCP server that gives your AI assistant access to a curated database of AI tools. 200+ tool cards extracted from [The AI Search](https://www.youtube.com/@theAIsearch) YouTube channel, each with pricing, platform, use cases, and source links.
+An MCP server that gives your AI assistant access to a curated database of AI tools. ~400 tool cards extracted from [The AI Search](https://www.youtube.com/@theAIsearch) YouTube channel, each with pricing, platform, use cases, and source links. Updated automatically as new videos are published.
 
 Built so you can ask your AI "what tool should I use for X?" and get an answer grounded in real reviews instead of training data.
 
@@ -19,7 +19,7 @@ Add to your MCP config (Claude Code, Cursor, Windsurf, or any MCP-compatible cli
 }
 ```
 
-That's it. No API keys, no setup.
+No API keys, no setup.
 
 ## What it does
 
@@ -27,11 +27,9 @@ The server exposes one tool: `search_tools`. When called, it returns every card 
 
 Why return everything instead of filtering? Because the AI is better at matching your intent to the right tool than any keyword search would be. A query about "making 3D product mockups" should surface a tool whose card says "generate photorealistic scene compositions," and keyword matching would miss that.
 
-At 200+ cards (~220KB), the full set fits comfortably in any modern LLM's context. If you want to keep your main conversation's context clean, have your AI call this tool from a sub-agent.
+The full set fits comfortably in any modern LLM's context. If you want to keep your main conversation's context clean, have your AI call this tool from a sub-agent.
 
 ## What's in each card
-
-Every card follows a consistent format:
 
 - **Tool name** and one-line description
 - **URL**, **pricing** (free / freemium / paid / open-source), **platform** (web / local / API / mobile / etc.)
@@ -53,8 +51,8 @@ npm install
 npm run dev
 ```
 
-The server tries to fetch cards from GitHub first (so users always get the latest). If that fails (offline, rate-limited), it falls back to the local `cards/` directory. Cards are cached in memory for one hour.
+The server fetches cards from GitHub first (so users always get the latest). If that fails (offline, rate-limited), it falls back to the local `cards/` directory. Cards are cached in memory for one hour.
 
 ## License
 
-MIT
+[MIT](LICENSE)
