@@ -17,3 +17,4 @@ Use it when you want high-quality AI video generation with more control over cha
 
 ## Sources
 - [Claude Fable 5.1 is savage](https://www.youtube.com/watch?v=RmlP_nqOhsk) (2026-09-03) - mention (sponsored)
+- [New BEST AI image generator is here](https://www.youtube.com/watch?v=q9tpIc8PVKM) (2026-09-10) - mention (sponsored)

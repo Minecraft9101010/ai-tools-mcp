@@ -17,3 +17,4 @@ When building agentic projects in Codex that need AI-generated images as part of
 
 ## Sources
 - [GPT 5.4 is so cracked](https://www.youtube.com/watch?v=YRyjkmmW5Ek) (2026-03-10) - mention
+- [New BEST AI image generator is here](https://www.youtube.com/watch?v=q9tpIc8PVKM) (2026-09-10) - deep-dive
