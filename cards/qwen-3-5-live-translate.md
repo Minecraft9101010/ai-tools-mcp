@@ -17,3 +17,4 @@ Translating live streams or video calls where on-screen text, slides, or visual 
 
 ## Sources
 - [AI co-scientist, AI for DNA, AI NPCs, open-source robots, new Qwen, new video editors: AI NEWS](https://www.youtube.com/watch?v=pC6KHflGye0) (2026-05-24) - deep-dive
+- [OpenAI hacked, Jev, Google’s RSI, Qwen 3.8 Omni, Bonsai 2, new Gemini Live: AI NEWS](https://www.youtube.com/watch?v=hygMRgnDD7w) (2026-09-20) - deep-dive
