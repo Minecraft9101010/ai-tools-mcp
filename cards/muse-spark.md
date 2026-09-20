@@ -18,3 +18,4 @@ Quick AI assistance within Meta's ecosystem. Not a primary choice if you have ac
 ## Sources
 - [Claude Mythos, Deepseek v4, HappyHorse, Meta's new AI, realtime video games: AI NEWS](https://youtube.com/watch?v=1_5sSJK2rU0) (2026-04-12) - mention
 - [Girlfriend simulators, GPT 5.6, Grok 4.5, Seedream 5.0, Muse Spark, robot surgery: AI NEWS](https://www.youtube.com/watch?v=Ti1V7OI2Rro) (2026-07-12) - mention
+- [GPT 6 Astra, Claude Fable 5.1, Gemini 3.8, realtime Minimax, new world models: AI NEWS](https://www.youtube.com/watch?v=ngyFRCNq0Yc) (2026-09-06) - deep-dive

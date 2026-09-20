@@ -20,3 +20,4 @@ Last-resort model for the hardest agentic coding problems: a bug no other top mo
 - [Full body waifus, Claude Fable is back, LongCat 2.0, mind-reading AI, live video editing: AI NEWS](https://www.youtube.com/watch?v=qtzzN8w2TvU) (2026-07-05) - deep-dive
 - [RIP Claude Fable, open-source AI unleashed, full body avatars, new Google models, new TTS: AI NEWS](https://www.youtube.com/watch?v=SxiRANj0xLs) (2026-06-14) - deep-dive
 - [Claude Fable 5.1 is savage](https://www.youtube.com/watch?v=RmlP_nqOhsk) (2026-09-03) - deep-dive
+- [GPT 6 Astra, Claude Fable 5.1, Gemini 3.8, realtime Minimax, new world models: AI NEWS](https://www.youtube.com/watch?v=ngyFRCNq0Yc) (2026-09-06) - deep-dive

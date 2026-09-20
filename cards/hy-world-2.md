@@ -17,3 +17,4 @@ Accepts text prompts, single images, multiple images, or video and generates com
 
 ## Sources
 - [Claude Opus 4.7, Qwen 3.6, Happy Oyster, realtime 3D worlds, new Google TTS: AI NEWS](https://youtube.com/watch?v=G8fqduzB5lc) (2026-04-19) - mention
+- [GPT 6 Astra, Claude Fable 5.1, Gemini 3.8, realtime Minimax, new world models: AI NEWS](https://www.youtube.com/watch?v=ngyFRCNq0Yc) (2026-09-06) - deep-dive

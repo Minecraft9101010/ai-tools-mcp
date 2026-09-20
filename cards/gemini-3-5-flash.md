@@ -17,3 +17,4 @@ Agentic coding, multi-step automation, sub-agent workflows, or any task where sp
 
 ## Sources
 - [Google just dropped some huge AI updates](https://www.youtube.com/watch?v=J02-39xtlt4) (2026-05-21) - deep-dive
+- [GPT 6 Astra, Claude Fable 5.1, Gemini 3.8, realtime Minimax, new world models: AI NEWS](https://www.youtube.com/watch?v=ngyFRCNq0Yc) (2026-09-06) - deep-dive
