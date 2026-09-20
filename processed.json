@@ -412,6 +412,13 @@
       "published": "2026-08-30",
       "processed": "2026-09-01",
       "tools_extracted": 15
+    },
+    {
+      "id": "RmlP_nqOhsk",
+      "title": "Claude Fable 5.1 is savage",
+      "published": "2026-09-03",
+      "processed": "2026-09-20",
+      "tools_extracted": 2
     }
   ]
 }
