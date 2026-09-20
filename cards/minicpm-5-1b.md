@@ -17,3 +17,4 @@ Running a genuinely capable small model on a laptop or phone-class device where 
 
 ## Sources
 - [Self-improving AI, Opus 4.8, Nvidia bangers, game-ready 3D models, juggling robots: AI NEWS](https://www.youtube.com/watch?v=RdqYvdT74i0) (2026-05-31) - mention
+- [New Deepseek, human genome map, Navier Stokes, GPT finance, Suno v6, YuE2: AI NEWS](https://www.youtube.com/watch?v=nZYJdwM-_nI) (2026-09-13) - mention

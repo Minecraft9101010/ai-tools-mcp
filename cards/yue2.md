@@ -17,3 +17,4 @@ Use it when you want a local/open-source AI music generator for text-to-music, c
 
 ## Sources
 - [Forget Suno. New BEST local AI music generator is here!](https://www.youtube.com/watch?v=9RtywbN--QE) (2026-09-15) - deep-dive
+- [New Deepseek, human genome map, Navier Stokes, GPT finance, Suno v6, YuE2: AI NEWS](https://www.youtube.com/watch?v=nZYJdwM-_nI) (2026-09-13) - deep-dive

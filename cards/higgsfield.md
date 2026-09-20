@@ -20,3 +20,4 @@ Use it when you want high-quality AI video generation with more control over cha
 - [New BEST AI image generator is here](https://www.youtube.com/watch?v=q9tpIc8PVKM) (2026-09-10) - mention (sponsored)
 - [GPT 6 Astra, Claude Fable 5.1, Gemini 3.8, realtime Minimax, new world models: AI NEWS](https://www.youtube.com/watch?v=ngyFRCNq0Yc) (2026-09-06) - mention (sponsored)
 - [GPT 6 Astra is a freak](https://www.youtube.com/watch?v=Ji4amrxrzVM) (2026-09-07) - mention
+- [New Deepseek, human genome map, Navier Stokes, GPT finance, Suno v6, YuE2: AI NEWS](https://www.youtube.com/watch?v=nZYJdwM-_nI) (2026-09-13) - mention (sponsored)
