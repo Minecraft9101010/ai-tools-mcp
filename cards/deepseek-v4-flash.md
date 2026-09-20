@@ -17,3 +17,4 @@ Best-value frontier-adjacent intelligence right now if cost per token matters â€
 
 ## Sources
 - [New Deepseek, Seedance 2.5, Minimax H3, Gemini Robotics, AMD models: AI NEWS](https://www.youtube.com/watch?v=OrcBSpADCGk) (2026-08-02) - deep-dive
+- [Deepseek just did the impossible](https://www.youtube.com/watch?v=MImgH4KMtj8) (2026-09-18) - deep-dive
