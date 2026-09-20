@@ -17,3 +17,4 @@ Use it for difficult hosted agent tasks involving computer control, coding, desi
 
 ## Sources
 - [GPT 6 Astra, Claude Fable 5.1, Gemini 3.8, realtime Minimax, new world models: AI NEWS](https://www.youtube.com/watch?v=ngyFRCNq0Yc) (2026-09-06) - deep-dive
+- [GPT 6 Astra is a freak](https://www.youtube.com/watch?v=Ji4amrxrzVM) (2026-09-07) - deep-dive
