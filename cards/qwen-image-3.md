@@ -17,3 +17,4 @@ Text-dense or multilingual image work in the Qwen ecosystem. Against other close
 
 ## Sources
 - [Claude Opus 5, GPT 6 hack, Flux 3, new Gemini, quantum breakthrough, new Qwen: AI NEWS](https://www.youtube.com/watch?v=fMaPaK4gcNE) (2026-07-26) - deep-dive
+- [Finally! New best local AI image editor is here](https://www.youtube.com/watch?v=BaE6UBfNdQk) (2026-09-22) - deep-dive

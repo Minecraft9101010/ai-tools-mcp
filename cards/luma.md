@@ -19,3 +19,4 @@ Use it for creative production workflows such as marketing campaigns, branded co
 - [Deepseek just did the impossible](https://www.youtube.com/watch?v=MImgH4KMtj8) (2026-09-18) - mention (sponsored)
 - [Forget Suno. New BEST local AI music generator is here!](https://www.youtube.com/watch?v=9RtywbN--QE) (2026-09-15) - mention (sponsored)
 - [GPT 6 Astra is a freak](https://www.youtube.com/watch?v=Ji4amrxrzVM) (2026-09-07) - mention (sponsored)
+- [Finally! New best local AI image editor is here](https://www.youtube.com/watch?v=BaE6UBfNdQk) (2026-09-22) - mention (sponsored)
