@@ -17,3 +17,4 @@ Use it to create, edit, automate, or publish AI-generated visual content from a 
 
 ## Sources
 - [OpenAI hacked, Jev, Google’s RSI, Qwen 3.8 Omni, Bonsai 2, new Gemini Live: AI NEWS](https://www.youtube.com/watch?v=hygMRgnDD7w) (2026-09-20) - mention (sponsored)
+- [The AI unlock has begun](https://www.youtube.com/watch?v=h5zkzon0gM4) (2026-10-06) - mention (sponsored)
