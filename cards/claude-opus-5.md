@@ -17,3 +17,4 @@ Agentic front-end or 3D design work where minimizing errors matters more than sp
 
 ## Sources
 - [Claude Opus 5 is a freak](https://www.youtube.com/watch?v=RCsBJz4W4bA) (2026-07-27) - deep-dive
+- [Claude Opus 5.5 is ridiculous](https://www.youtube.com/watch?v=gX0L0aFA2xg) (2026-09-24) - deep-dive
