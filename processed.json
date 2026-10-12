@@ -482,6 +482,13 @@
       "published": "2026-10-06",
       "processed": "2026-10-08",
       "tools_extracted": 10
+    },
+    {
+      "id": "gX0L0aFA2xg",
+      "title": "Claude Opus 5.5 is ridiculous",
+      "published": "2026-09-24",
+      "processed": "2026-10-12",
+      "tools_extracted": 2
     }
   ]
 }
